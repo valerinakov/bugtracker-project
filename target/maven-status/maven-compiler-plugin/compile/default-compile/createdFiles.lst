@@ -1,0 +1,10 @@
+bugtracker\configuration\WebAppInitializer.class
+bugtracker\model\Report.class
+bugtracker\dao\BugDao.class
+bugtracker\service\BugService.class
+bugtracker\service\BugServiceImpl.class
+bugtracker\controller\BugController.class
+bugtracker\configuration\DatabaseConfiguration.class
+bugtracker\configuration\WebMvcConfig.class
+bugtracker\dao\HibernateBugDaoImpl.class
+bugtracker\model\Bug.class
